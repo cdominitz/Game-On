@@ -5,7 +5,7 @@ Game ON is a Figma app designed and developed by Team Up (Calista Dominitz & Mar
 
 Game ON is a Figma prototype created with a focus on UI/UX design. Our goal was to develop an app that seamlessly blends functionality with ease of use, while also addressing the needs and interests of users. It serves as a comprehensive solution for managing game preferences, organizing events, and receiving game recommendations. With an intuitive user interface and powerful features, Game ON streamlines the process of planning and enjoying game nights with friends.
 
-For more information, please refer to the [detailed PDF documentation]([Project Presentation.pdf](https://github.com/cdominitz/Game-On/blob/main/Project%20Presentation.pdf)).
+For more information, please refer to the [detailed PDF documentation](https://github.com/cdominitz/Game-On/blob/main/Project%20Presentation.pdf)).
 
 
 ## Link to App
