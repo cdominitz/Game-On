@@ -14,5 +14,5 @@ For more information, please refer to the [detailed PDF documentation](https://g
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact￼
+## Contact
 For any inquiries or feedback, please contact [Calista Dominitz](mailto:cdominitz@gmail.com).
